@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: تماس با من
 permalink: /contact
 ---
 

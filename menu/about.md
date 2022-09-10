@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to my personal blog!
+title: به وبلاگم خوش اومدی!
 permalink: /about
 ---
 
