@@ -3,6 +3,7 @@
 */
 
 body {
+  direction: rtl;
   font-family: $serif-font-family;
   font-size: 18px;
   color: $body-color;
@@ -51,7 +52,7 @@ img {
 blockquote {
   margin: 10px 20px 10px;
   padding: 0px 15px;
-  border-left: 0.25em solid $extra-light-gray-color;
+  border-right: 0.25em solid $extra-light-gray-color;
   color: $light-gray-color;
   line-height: 1.5;
 }
@@ -76,5 +77,5 @@ table, th, td {
 
 th, td {
   padding: 15px;
-  text-align: left;
+  text-align: right;
 }
