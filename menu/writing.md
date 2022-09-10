@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: نوشته
+title: بایگانی مطالب
 permalink: /writing
 ---
